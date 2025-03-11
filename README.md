@@ -1,4 +1,4 @@
-# Healthcare Data Cleaning and BMI Analysis
+# Healthcare Data Cleaning
 
 ## Overview
 This project involves cleaning a healthcare dataset, calculating **Body Mass Index (BMI)** for each patient, and categorizing them into different **BMI categories** (Underweight, Normal weight, Overweight, Obese). The dataset includes important features like **Age**, **Blood Pressure**, **Sugar Level**, and **Weight**. After the data cleaning and calculations, a **bar graph** is created to visualize the distribution of patients across different BMI categories.
